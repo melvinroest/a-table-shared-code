@@ -1,0 +1,11 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "melvin roest <melvinroest@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/papaparse": "^5.2.5",
+    "papaparse": "^5.3.0"
+  }
+}
